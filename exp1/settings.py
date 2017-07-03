@@ -25,7 +25,7 @@ SECRET_KEY = 'tzcb+k5#aas%xmwnw)8jo31bu9x=k4gq7n#4$teua$60a!b9z7'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = [*]
+ALLOWED_HOSTS = [djd.dev.concitus.com]
 
 
 # Application definition
